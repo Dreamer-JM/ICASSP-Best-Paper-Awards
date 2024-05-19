@@ -11,15 +11,17 @@
 **【Contents】**
 
 - [2023](#2023)
-- [1.Best Paper Award](#1.BestPaperAward)
-- [2.Best Industry Paper Award](#2.BestIndustryPaperAward)
-- [3.Best Student Paper Awards](#3.BestStudentPaperAwards)
+- [1.Best Paper Award](#1.BestPaperAward23)
+- [2.Best Industry Paper Award](#2.BestIndustryPaperAward23)
+- [3.Best Student Paper Awards](#3.BestStudentPaperAwards23)
+- [2022](#2022)
+- [1.Best Paper Award](#1.BestPaperAward22)
 
 <a name="2023"></a>
 
 # 2023
 
-<a name="1.BestPaperAward"></a>
+<a name="1.BestPaperAward23"></a>
 
 ### **1.Best Paper Award**
 
@@ -30,7 +32,7 @@
 - Paper: https://arxiv.org/abs/2210.15143
 - Code: 
 
-<a name="2.BestIndustryPaperAward"></a>
+<a name="2.BestIndustryPaperAward23"></a>
 
 ### **2.Best Industry Paper Award**
 
@@ -41,7 +43,7 @@
 - Paper: https://arxiv.org/abs/2306.07744
 - Code: 
 
-<a name="3.BestStudentPaperAwards"></a>
+<a name="3.BestStudentPaperAwards23"></a>
 
 ### **3.Best Student Paper Awards**
 
@@ -70,5 +72,20 @@
 #### *Solving audio inverse problems with a diffusion model*
 
 - Paper: https://arxiv.org/abs/2210.15228
+- Code: 
+
+<a name="2022"></a>
+
+# 2022
+
+<a name="1.BestPaperAward22"></a>
+
+### **1.Best Paper Award**
+
+------
+
+#### *Generalized Sliced Probability Metrics*
+
+- Paper: https://ieeexplore.ieee.org/document/9746016
 - Code: 
 
