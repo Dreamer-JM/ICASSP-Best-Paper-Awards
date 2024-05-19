@@ -11,15 +11,15 @@
 **【Contents】**
 
 - [2023](#2023)
-- [1.Best Paper Award](###**1.Best Paper Award**)
-- [2.Best Industry Paper Award](###**2.Best Industry Paper Award**)
-- [3.Best Student Paper Awards](###**3.Best Student Paper Awards**)
+- [1.Best Paper Award](#1.BestPaperAward)
+- [2.Best Industry Paper Award](#2.BestIndustryPaperAward)
+- [3.Best Student Paper Awards](#3.BestStudentPaperAwards)
 
 <a name="#2023"></a>
 
 # 2023
 
-<a name="###**1.Best Paper Award**"></a>
+<a name="#1.BestPaperAward"></a>
 
 ### **1.Best Paper Award**
 
@@ -30,7 +30,7 @@
 - Paper: https://arxiv.org/abs/2210.15143
 - Code: 
 
-<a name="###**2.Best Industry Paper Award**"></a>
+<a name="#2.BestIndustryPaperAward"></a>
 
 ### **2.Best Industry Paper Award**
 
@@ -41,7 +41,7 @@
 - Paper: https://arxiv.org/abs/2306.07744
 - Code: 
 
-<a name="###**3.Best Student Paper Awards**"></a>
+<a name="#3.BestStudentPaperAwards"></a>
 
 ### **3.Best Student Paper Awards**
 
